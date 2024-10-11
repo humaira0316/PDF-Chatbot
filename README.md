@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/pdf-chatbot.git
+git clone https://github.com/humaira0316/PDF-Chatbot.git
 cd pdf-chatbot
 Install the required Python libraries:
 
